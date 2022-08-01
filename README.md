@@ -2,4 +2,4 @@
 
 ## Dependências:
 
-- SCSS - Sass (pré-processador CSS)# animacoes_css
+- SCSS - Sass (pré-processador CSS)
